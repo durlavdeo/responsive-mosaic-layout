@@ -32,7 +32,7 @@
 ## 📬 **Contact**
 - **Durlav Deo**
 - [LinkedIn](https://linkedin.com/in/durlavdeo)
-- [GitHub](https://github.com/durlavdeo)
+- [Email](durlavdeo2020@gmail.com)
 
 ---
 *Crafted with 💻 and 🎨 by Durlav Deo*

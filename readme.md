@@ -30,9 +30,8 @@
 [View Live Demo](https://responsive-mosaic-layout.netlify.app)
 
 ## 📬 **Contact**
-- **Durlav Deo**
-- [LinkedIn](https://linkedin.com/in/durlavdeo)
-- [Email](durlavdeo2020@gmail.com)
+- **Email:** [durlavdeo2020@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/durlav-deo/]
 
 ---
 *Crafted with 💻 and 🎨 by Durlav Deo*
